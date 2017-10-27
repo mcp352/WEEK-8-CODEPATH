@@ -31,9 +31,11 @@ https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/86E040E2-5977-4896-B1E4-18
 
 Vulnerability #1: User Enumeration
 When you log in to the green site with a real username and an incorrect password the "log in was unsuccessful" is bold but when you try to log in with a fake username and fake password you can see that the "log in was unsuccessful" is not bold.
+https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/A7197EF9-DFCD-42C4-9035-AEBE1CEB0D60.GIF
 
+Vulnerability #2: Cross Site Scripting
+You can use the feedback section to add XSS to and the prompt will show up on the admin screen
 
-Vulnerability #2: __________________
 
 
 ## Red
