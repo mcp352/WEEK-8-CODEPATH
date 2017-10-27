@@ -2,7 +2,7 @@
 This Is Week 8 Codepath PENTESTING
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -48,8 +48,7 @@ https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/20B59EE7-CFCD-48AF-9788-43
 
 Vulnerability #2: CSRF
 You can submit feedback with a loopback ip to a file that uses POST to modify the username database
-
+https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/F780D9EC-A351-43C4-A14B-A883DF1458DC.GIF
 
 ## Notes
-
-Describe any challenges encountered while doing the work
+Was actually a good change of pace. Was challenging but not overwhelming
