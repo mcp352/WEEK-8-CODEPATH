@@ -44,7 +44,7 @@ https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/081F9459-FB83-4389-999A-22
 
 Vulnerability #1: IDOR
 You can IDOR to specify things that exist but are not listed in the page index.
-
+https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/20B59EE7-CFCD-48AF-9788-430B781E20E2.GIF
 
 Vulnerability #2: CSRF
 You can submit feedback with a loopback ip to a file that uses POST to modify the username database
