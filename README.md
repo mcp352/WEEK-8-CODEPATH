@@ -22,14 +22,16 @@ Vulnerability #1: sql injection
 The find a salesman had the id in the URL and you can input the SLEEP command to prove a database SQL injection.
 https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/865CFBB6-42B0-459A-B862-66AD2C2750F5.GIF
 Vulnerability #2: Session Hijacking/Fixation
-Using the change session id tool you can take a loged in php session id and use it to log into the site
-
+Using the change session id tool you can take a loged in php session id and use it to log into the site.
+https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/86E040E2-5977-4896-B1E4-184065C265FF.GIF
 
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: User Enumeration
+When you log in to the green site with a real username and an incorrect password the "log in was unsuccessful" is bold but when you try to log in with a fake username and fake password you can see that the "log in was unsuccessful" is not bold.
+
 
 Vulnerability #2: __________________
 
