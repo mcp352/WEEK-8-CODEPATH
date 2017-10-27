@@ -19,9 +19,12 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: sql injection
-in the blue website the find a salesman had the id in the URL and you can input the SLEEP command to prove a database SQL injection.
-(INSERT THE VULNERABILITY GIF)
-Vulnerability #2: __________________
+The find a salesman had the id in the URL and you can input the SLEEP command to prove a database SQL injection.
+https://github.com/mcp352/WEEK-8-CODEPATH/blob/master/865CFBB6-42B0-459A-B862-66AD2C2750F5.GIF
+Vulnerability #2: Session Hijacking/Fixation
+Using the change session id tool you can take a loged in php session id and use it to log into the site
+
+
 
 
 ## Green
